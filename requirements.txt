@@ -1,2 +1,6 @@
 streamlit
+pandas
+requests
+feedparser
+python-dateutil
 google-genai
